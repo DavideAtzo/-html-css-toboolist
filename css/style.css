@@ -2,8 +2,9 @@ body{
     background-color: #F6F8F9;
     font-family: 'Roboto Condensed', sans-serif;
     margin: 0 auto;
-
+    
 }
+
 
 h1{
     display: inline-block;
@@ -18,5 +19,30 @@ img{
 
 header{
     background-color: white;
+    margin: 0px;
+    
    
+}
+
+.bottone1{
+    color: white;
+    background-color: #45ABEA;
+    border-color: #45ABEA;
+    border-radius: 10%;
+}
+
+.bottone2{
+    color: rgba(0, 0, 0, 0.2);
+    border-color: rgba(0, 0, 0, 0.2); 
+    border-radius: 10%;
+}
+
+.sez-bottoni{
+    margin-left: 50px;
+    margin-top: 50px;
+    background-color: white;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    border-radius: 10%;
 }
