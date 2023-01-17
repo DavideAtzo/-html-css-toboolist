@@ -1,0 +1,22 @@
+body{
+    background-color: #F6F8F9;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0 auto;
+
+}
+
+h1{
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 40px;
+}
+
+img{
+    vertical-align: middle;
+    margin-left: 20px;
+}
+
+header{
+    background-color: white;
+   
+}
