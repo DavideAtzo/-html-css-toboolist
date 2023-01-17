@@ -50,3 +50,13 @@ header{
 h2::before{
     content: '\25BC'
 }
+
+li::before{
+    content: '\2713'
+
+}
+
+ul{
+    list-style-type: none;
+}
+
